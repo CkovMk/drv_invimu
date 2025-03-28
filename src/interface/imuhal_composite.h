@@ -1,0 +1,1 @@
+// composite device. Can manage accl, gyro, magn, fifo, vsns, etc.
